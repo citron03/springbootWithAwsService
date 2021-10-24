@@ -6,3 +6,5 @@
 * lombok
 * Spring Data JPA
 * mustache
+* oauth2
+* Spring Security
